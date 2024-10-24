@@ -1,0 +1,25 @@
+Projektidee: Tierheim-Verwaltung
+
+Beschreibung
+Das Programm ermöglicht es dem Benutzer, Tiere hinzuzufügen und ihre Informationen anzuzeigen. 
+Es wird eine einfache Klasse Tier und eine abgeleitete Klasse Hund erstellt. 
+Außerdem wird ein Interface verwendet, um, macht einen Laut oder bellt(im Fall eines Hundes) zu erzeugen.
+
+Erklärung des Codes 
+
+Interface IlautVomTier: Definiert eine Methode LautGeben(), die von den Tieren implementiert werden muss.
+
+Klasse Tier: Basisklasse für alle Tiere mit Eigenschaften Name und Alter. 
+Sie implementiert das Interface und hat eine Methode LautGeben(), 
+die einen allgemeinen Laut ausgibt.
+
+Klasse Hund: Erbt von der Klasse Tier. Sie hat eine zusätzliche Eigenschaft Rasse und überschreibt 
+die Methode LautGeben(), um einen spezifischen Laut auszugeben.
+
+Hauptprogramm (Main-Methode):
+Es gibt eine Endlosschleife, die dem Benutzer die Möglichkeit gibt, Tiere hinzuzufügen, 
+alle Tiere anzuzeigen oder das Programm zu beenden.
+Bei der Auswahl "Tier hinzufügen" fragt das Programm den Benutzer nach den Informationen des Tieres.
+Es wird überprüft, ob das Tier ein Hund ist, und entsprechend wird ein Objekt der Klasse Hund oder Tier erstellt.
+Bei der Auswahl "Alle Tiere anzeigen" werden die Informationen aller Tiere ausgegeben.
+Der Benutzer kann das Programm beenden, indem er die entsprechende Option wählt.

@@ -1,0 +1,14 @@
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.AssemblyInfoInputs.cache
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.AssemblyInfo.cs
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.csproj.CoreCompileInputs.cache
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\bin\Debug\net8.0\_Projektarbeit_Lutz.exe
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\bin\Debug\net8.0\_Projektarbeit_Lutz.deps.json
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\bin\Debug\net8.0\_Projektarbeit_Lutz.runtimeconfig.json
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\bin\Debug\net8.0\_Projektarbeit_Lutz.dll
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\bin\Debug\net8.0\_Projektarbeit_Lutz.pdb
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.dll
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\refint\_Projektarbeit_Lutz.dll
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.pdb
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\_Projektarbeit_Lutz.genruntimeconfig.cache
+C:\Users\WeigelAlexander\OneDrive - LG-Academy\Desktop\Dateien\C#\_Projektarbeit\_Projektarbeit_Lutz\_Projektarbeit_Lutz\obj\Debug\net8.0\ref\_Projektarbeit_Lutz.dll
